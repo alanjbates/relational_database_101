@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,email_opt_in,addr1,addr2,city,state,zip,phone,favorite_brand
+6400459,Kelsey,Taiwo,TaiwoK9C@fake.hocking.edu,True,924 W   SCHAAF RD,,CLEVELAND,OH,44109,74044109,
+6242661,Theola,Balogh,BaloghT1C@fake.hocking.edu,True,1695 PIEDMONT RD,,COLUMBUS,OH,43224,74043224,
+539889,Soon,Zinno,ZinnoS3A@fake.hocking.edu,True,312 S MAIN ST,,ANSONIA,OH,45303,74045303,Under Armour
+5833257,Leonore,Carleton,CarletonL4C@fake.hocking.edu,True,4321 E   73 ST,,CLEVELAND,OH,44105,74044105,
+4760033,Francie,Leier,LeierF7D@fake.hocking.edu,True,741 W   SPRING VALLEY PIKE,,DAYTON,OH,45458,74045458,Adidas
+2183384,Elvera,Ray,RayE1B@fake.hocking.edu,True,180 EMERSON DR,,BEREA,OH,44017,74044017,Skechers
+2115790,Barbera,Engelberg,EngelbergB3T@fake.hocking.edu,True,303 N MAIN AV,,TUSCARAWAS,OH,44682,74044682,Skechers
+1526247,Cammy,Krumholz,KrumholzC4W@fake.hocking.edu,True,420 E LARWILL ST,3,WOOSTER,OH,44691,74044691,Skechers
+6324779,Beaulah,Cowett,CowettB3C@fake.hocking.edu,True,3367 ARNSBY RD,,COLUMBUS,OH,43232,74043232,
+1763740,Joanna,Beilinson,BeilinsonJ4N@fake.hocking.edu,True,49 N 21 ST,,NEWARK,OH,43055,74043055,Skechers
